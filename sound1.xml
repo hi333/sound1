@@ -1,1 +1,10 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="multimedia_displaybmp" id="7" x="1" y="1">
+    <field name="BMP">ttttttt</field>
+    <next>
+      <block type="multimedia_playwav" id="23">
+        <field name="WAV"></field>
+      </block>
+    </next>
+  </block>
+</xml>
